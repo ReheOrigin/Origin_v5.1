@@ -1,0 +1,10 @@
+[
+  {
+    "circuit_id": "EN1_Fetal_Switch_2023",
+    "source": "doi:10.1016/j.cell.2023.05.012",
+    "core_genes": [
+      "EN1"
+    ],
+    "phenotype": "scarless healing in adult mice"
+  }
+]
