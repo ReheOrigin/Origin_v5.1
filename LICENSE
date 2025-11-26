@@ -1,11 +1,18 @@
 Origin v5.1 – License (December 2025)
 
-Academic and non-commercial use
-→ Free forever with attribution and citation of the preprint/DOI.
-→ You may use, modify, and redistribute for research and teaching.
+This repository, Origin v5.1 (the "Software"), is subject to a Dual Licensing model.
 
-Commercial use
-→ All commercial applications (including internal company use, SaaS, pharma pipelines, etc.) require a paid license.
-→ Contact: robert.rehe2k@gmail.com for pricing and terms.
+1. Academic and Non-Commercial Use:
 
-Copyright © 2025 Robert-James Rehe. All rights reserved unless explicitly granted above.
+The Software is licensed to you under the terms of the GNU Affero General Public License Version 3 (AGPLv3), as published by the Free Software Foundation. A copy of the full text of the AGPLv3 is available at https://www.gnu.org/licenses/agpl-3.0.html.
+
+Under this license, if you modify the code and run the modified version on a server to offer a service to others, you are required to release the source code of your modifications to the community.
+
+2. Commercial Use:
+
+Use of the Software by any entity, organization, or individual for commercial purposes requires the purchase of a separate, written Commercial License. Commercial purposes include, but are not limited to:
+* Using the Software to generate direct or indirect revenue.
+* Integrating the Software or its outputs into a proprietary product or service.
+* Running the Software internally to inform for-profit drug discovery, research, or development.
+
+Please refer to the COMMERCIAL_LICENSE_POLICY.md file in this repository for details on obtaining a commercial license.
