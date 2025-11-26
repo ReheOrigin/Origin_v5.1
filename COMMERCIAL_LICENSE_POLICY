@@ -1,0 +1,46 @@
+Commercial Licensing Policy for Origin v5.1
+
+Overview
+Origin v5.1 operates under a Dual Licensing model. This policy details the requirements and benefits for any entity engaging in commercial use of the Software.
+Academic / Non-Commercial Use
+For clarity, research use by non-profit entities is governed by the GNU Affero General Public License v3 (AGPLv3). 
+This requires all modifications to the source code to be made public, ensuring that academic improvements benefit the community (and are returned to the core knowledge base).
+
+Commercial Use Requirements:
+Commercial Use is defined as any utilization of Origin v5.1—including running the code, modifying the source, or using its output—by a for-profit entity for purposes 
+related to internal drug discovery, R&D, service offering, or revenue generation.
+Entities engaged in Commercial Use must obtain a written Commercial License from the author, Robert-James Rehe.
+
+Benefits of a Commercial License:
+A paid Commercial License specifically exempts the licensee from the AGPLv3 requirement to share source code, granting the following critical rights and advantages:
+Retention of Proprietary IP: The licensee gains the right to use, modify, and integrate Origin v5.1 into proprietary, private workflows without 
+the obligation to publicly disclose their modified source code or customizations. This is the primary value proposition, allowing the company to safeguard its R&D secrets.
+
+Dedicated Support & Consultation: Access to priority technical support, troubleshooting, and consultation services for custom data integration, pipeline optimization, 
+and advanced feature requests.
+Warranties and Indemnification: Access to standard business warranties and legal assurances regarding intellectual property and fitness for commercial purpose 
+(which large enterprises require for legal and procurement sign-off).
+
+Version Stability: Guaranteed access to specific, stable, and commercially supported releases of the Software.
+
+How to Proceed
+
+Companies have two primary options for engaging with Origin v5.1:
+
+A. Custom Run Service
+
+The fastest path. The author runs the Software on the client's private data matrix (e.g., 50–100 samples) and delivers the results and analysis. 
+This is typically priced per run.
+None (Service Agreement)
+
+B. Enterprise License
+
+The client purchases a non-AGPL license to install and run the Software internally, modify the source code, and keep all improvements secret.
+
+Full Commercial License
+Contact for Licensing and Services
+Please direct all commercial licensing inquiries, custom run requests, and enterprise integration proposals to the author:
+
+Robert-James Rehe
+Independent Computational Methods Developer
+Email: rrehe.Origin@gmail.com
