@@ -1,28 +1,41 @@
-# Commercial Licensing Policy for Origin v5.1
+# Commercial Licensing Policy – Origin v5.1 and Global Living Atlas
 
-## 1. Free Use (AGPLv3)
-All source code is licensed under GNU Affero General Public License v3.0 (AGPLv3).  
-Academic, non-profit, and individual use is completely free and encouraged.
+## 1. Free / Open-Source Tier (AGPLv3)
+- All source code is licensed under GNU Affero General Public License v3.0  
+- Academic, non-profit, and individual use is completely free  
+- All vectors generated automatically enter the public Tier 2 atlas (read/write for everyone)
 
-## 2. Commercial Use
-Any for-profit entity using Origin v5.1 in R&D, drug discovery, service offerings, or any revenue-generating 
-activity must obtain a commercial agreement.  
-Two simple options exist:
+## 2. Academic Exclusive Partnership (invitation only – permanent cap of 10 Active seats)
 
-### A. Custom Run Service (most companies start here)
-You send me your private data → I run Origin v5.1 on my secured instance → you receive the full results 
-(vectors + tags + report).  
-No code leaves my machine, no AGPL obligations triggered.  
+- A strict maximum of 10 laboratories worldwide may hold an Active Exclusive seat at any one time.
+- Seats are granted at the sole discretion of the author and are non-transferable.
+- Exclusive benefits include permanent private Tier 1 vector storage, exemption from AGPL source-disclosure, and priority access to OriginX and OriginB.
+
+### 2A. Seat Allocation Philosophy (publicly stated)
+- One seat is permanently reserved for a New Zealand-based laboratory in recognition of the project’s origin.
+- At least four seats are prioritised for laboratories making the most significant contributions to safe, consensual human regenerative medicine and biological enhancement (scarless healing, extreme longevity, cognitive optimisation, etc.).
+- The remaining seats are awarded to laboratories that have demonstrated extraordinary, field-defining impact in synthetic biology, computational biology, genomics, or closely related disciplines that meaningfully advance the Global Living Atlas mission.
+- Beginning in 2031 and every five years thereafter, the author may — entirely at his discretion — replace up to two of the least-active seats with new laboratories that have made breakthrough contributions since the previous cycle. The total number of Active seats will never exceed 10.
+
+There is no application process, no lobbying, and no guaranteed expansion. Seats are offered only when the author believes a laboratory’s work dramatically accelerates the broader scientific community’s ability to understand and improve the human condition.
+
+## 3. Commercial / Enterprise Tier
+For-profit use (including internal R&D, drug discovery, or service offerings) requires a paid license. Two options:
+
+### 3A. Custom Run Service (fastest on-ramp)
+You send private data → author runs Origin v5.1 on secured infrastructure → you receive full results.  
+No code transfer, no AGPL obligations.  
 Pricing: per-run or subscription.
 
-### B. Enterprise License
-You want to install and run the software internally and/or keep modifications private.  
-A paid commercial license removes the AGPL source-disclosure requirement and includes:
-- Right to modify and keep changes proprietary
-- Priority support and consulting
-- Stable, supported releases
-- Standard warranties and indemnification
+### 3B. Full Enterprise License
+- Internal deployment of the software  
+- Right to modify and keep all changes proprietary  
+- Private Tier 1 vector storage  
+- Dedicated support, SLA, warranties, and indemnification  
+- Early access to OriginX and OriginB  
 
-Contact: rrehe.Origin@gmail.com for pricing and terms.
+Pricing and terms available on request.
 
-The proprietary Global Living Atlas (Tier 1) and future modules (OriginX, OriginB) are never included in any license and remain exclusive to the author and strategic partners.
+## Contact for Both Commercial and Academic Exclusive Inquiries
+Robert-James Rehe  
+rrehe.Origin@gmail.com
