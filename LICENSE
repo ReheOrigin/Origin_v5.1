@@ -1,19 +1,26 @@
 Origin v5.1 – License (November 2025)
 
-This repository, Origin v5.1 (the "Software"), is subject to a Dual Licensing model.
+This repository, Origin v5.1 (the "Software"), is subject to a sophisticated Dual Licensing model.
 
-1. Academic and Non-Commercial Use:
+1. Free / Academic Use (AGPLv3)
 
-The Software is licensed to you under the terms of the GNU Affero General Public License Version 3 (AGPLv3), as published by the Free Software Foundation. 
+The Software is licensed to you under the terms of the GNU Affero General Public License Version 3 (AGPLv3), as published by the Free Software Foundation.
 A copy of the full text of the AGPLv3 is available at https://www.gnu.org/licenses/agpl-3.0.html.
 
-Under this license, if you modify the code and run the modified version on a server to offer a service to others, you are required to release the source code of your modifications to the community.
+Under this license, all source code modifications must be disclosed, and all generated knowledge vectors enter the public Tier 2 Atlas.
 
-2. Commercial Use:
+2. Academic Exclusive Partnership (Invitation-Only)
+
+This tier is reserved for a strict maximum of 10 invited laboratories worldwide, offering permanent private Tier 1 vector storage and exemption from AGPL source-disclosure requirements.
+
+3. Commercial / Enterprise Use
 
 Use of the Software by any entity, organization, or individual for commercial purposes requires the purchase of a separate, written Commercial License. Commercial purposes include, but are not limited to:
-* Using the Software to generate direct or indirect revenue.
-* Integrating the Software or its outputs into a proprietary product or service.
-* Running the Software internally to inform for-profit drug discovery, research, or development.
 
-Please refer to the COMMERCIAL_LICENSE_POLICY.md file in this repository for details on obtaining a commercial license.
+Using the Software to generate direct or indirect revenue.
+
+Integrating the Software or its outputs into a proprietary product or service.
+
+Running the Software internally to inform for-profit R&D.
+
+Please refer to the COMMERCIAL_LICENSE_POLICY.md file in this repository for detailed allocation philosophies, benefits, and commercial pricing on the Custom Run Service and Full Enterprise License.
