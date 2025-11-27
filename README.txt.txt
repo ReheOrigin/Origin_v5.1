@@ -27,10 +27,11 @@ LICENSE.md: The primary legal document detailing the three distinct usage tiers.
 
 COMMERCIAL_LICENSE_POLICY.md: Detailed philosophy for the 10-Seat Academic Exclusive Partnership and Commercial/Enterprise terms.
 
-CUSTOM_RUN_PRICING.md: Current pricing for proprietary, off-site analysis services.
+SERVICES.md: Current pricing for proprietary, off-site analysis services.
 
 📧 Contact
 
 For all licensing, commercial, and academic exclusive inquiries:
 Robert-James Rehe
 rrehe.Origin@gmail.com
+
