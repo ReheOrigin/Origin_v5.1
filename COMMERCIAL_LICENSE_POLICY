@@ -1,66 +1,67 @@
-# Commercial Licensing Policy – Origin v5.1 and Global Living Atlas
+# Commercial Licensing Policy – Origin v5.1 and Global Living Atlas  
+(Last revised: 28 November 2025 – this document will never be substantively altered again)
 
 ## 1. Free / Open-Source Tier (AGPLv3)
-- All source code is licensed under GNU Affero General Public License v3.0
-- Academic, non-profit, and individual use is completely free
-- All vectors generated automatically enter the public Tier 2 atlas (read/write for everyone)
+- Source code: GNU Affero General Public License v3.0
+- Academic, non-profit, individual use: completely free forever
+- All generated vectors automatically flow to public Tier 2 (read/write for all)
 
 ## 2. Academic Exclusive Partnership – Odyssey Program
-**(Completely dormant – no Exclusive seats exist as of November 2025)**
+**(100 % dormant as of 28 November 2025 – zero Exclusive seats exist today)**
 
-No institution currently holds any Exclusive privileges beyond normal paid Tier 1 access.
+No institution currently enjoys any privilege beyond normal paid Tier 1 access.
 
-The full Odyssey Program described below will activate irrevocably on the exact date and time Robert-James Rehe publicly declares “Odyssey Program is now active” (via signed GitHub commit, email from rrehe.Origin@gmail.com, or on-chain transaction).
+The full Odyssey Program below activates irrevocably the instant Robert-James Rehe publicly declares  
+“Odyssey Program is now active” (signed GitHub commit, email from rrehe.Origin@gmail.com, or on-chain transaction).
 
-Until that declaration, the program remains 100 % dormant.
+Until that exact declaration, the program remains completely dormant.
 
-### One-time pre-activation exception (Founder’s Prerogative)
-Before official activation, exactly five (5) institutions worldwide may be granted a temporary 6-month Exclusive preview at the sole and absolute discretion of the founder.
+### One-time pre-activation exception (Founder’s sole prerogative)
+Before official activation, exactly five (5) institutions worldwide may receive a temporary 6-month full-Exclusive preview at the founder’s absolute discretion.
 
 These five preview seats:
-- Receive full Exclusive privileges immediately upon private agreement
-- Expire automatically after 6 months or upon official program activation (whichever comes first)
-- Do not count against future Aotearoa or Global Constellation Tier seats
+- Start immediately upon private agreement
+- Expire automatically after 6 months or upon official activation (whichever is sooner)
+- Do not count against future Aotearoa or Global Constellation seats
 - Are non-transferable and non-renewable
 
 This is the only pre-activation exception that will ever exist.
 
-Institutions interested in one of the five preview seats must send a single-page expression of interest to:  
-**odyssey-preview@origin.institute**  
-(No other address will be monitored. No templates, no follow-ups, no lobbying.)
+Expression of interest (one page maximum) → odyssey-preview@origin.institute  
+(No other address, no templates, no follow-ups, no lobbying.)
 
-Once the program is activated, this preview option disappears forever.
-
-### Privileges for all Odyssey seats (Aotearoa Tier and Global Constellation Tier – upon activation)
+### Privileges for all Odyssey seats (upon activation)
 - Permanent private Tier 1 vector storage
-- Full exemption from AGPLv3 source-disclosure requirements
-- Unlimited cost-price runs on all current and future Origin engines
-- Seat on the closed Origin X training-data council
-- First access to every new model and feature
+- Full AGPLv3 source-disclosure exemption
+- Unlimited cost-price runs on every Origin engine forever
+- Voting seat on the closed Origin X training-data council
+- Day-one access to every new model, feature, and hardware integration
 
 ### 2A. Aotearoa Tier – New Zealand National Seats (upon activation)
-- Fixed at exactly 3 seats reserved exclusively for New Zealand-based institutions
-- Every 2 years after activation: lowest-performing NZ seat automatically replaced
-- These 3 seats can never be awarded to non-NZ institutions
+- Fixed at exactly 3 seats reserved exclusively for NZ institutions
+- Every 2 years after activation (synchronised with Global tier): lowest-performing NZ seat automatically replaced by the next-best NZ institution
+- These 3 seats can never be awarded to non-NZ entities
 
 ### 2B. Global Constellation Tier (upon activation)
-- Fixed at exactly 20 seats open worldwide
+- Fixed at exactly 20 seats open to any institution worldwide
 - Every 2 years on 1 January after activation: bottom 3 seats automatically demoted
-- Pure merit – no country protection
+- Pure merit – no protection whatsoever
 
 ### 2C. Odyssey Performance Metric (activates only with the program)
 Novel pathways successfully submitted to Tier 3  
-× OriginX citations crediting the institution’s Tier 1 data  
-× Real-world translational impact score
+× Origin X citations crediting the institution’s Tier 1 data  
+× Real-world translational impact score  
+(Exact weights and data sources will be published and permanently locked at activation)
 
-(The exact formula weights and data sources will be published and locked at activation.)
+Demoted institutions keep permanent read access to their historical Tier 1 vectors; new runs write only to Tier 2.
 
-Demoted institutions retain permanent read access to their historical Tier 1 vectors; new runs write only to Tier 2.
+No applications, no lobbying, no discretionary overrides after activation.  
+Leaderboard and seat changes executed by audited smart-contract code.
 
-There is no application process, no lobbying, and no discretionary overrides after activation.  
-The leaderboard and all seat changes are executed by audited smart-contract code.
+Total active Exclusive institutions once activated: maximum 23.
 
-Total active Exclusive institutions (once activated): maximum 23 (3 Aotearoa + 20 Global Constellation).
+This policy is final and its substantive rules will never be altered.  
+Operational details (emails, on-chain addresses, minor clarifications) may be updated unilaterally by the founder without constituting a policy change.
 
-This policy is final and will never be altered.  
-Operational details (email addresses, on-chain addresses, minor clarifications) may be updated unilaterally by the founder without constituting a policy change.
+## 3. Commercial / Enterprise Tier
+Pricing and full terms: https://ReheOrigin.github.io/Origin_v5.1/
