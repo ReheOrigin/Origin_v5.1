@@ -25,7 +25,6 @@ For-profit use (including internal R&D, drug discovery, or service offerings) re
 ### 3A. Custom Run Service (fastest on-ramp)
 You send private data → author runs Origin v5.1 on secured infrastructure → you receive full results.  
 No code transfer, no AGPL obligations.  
-Pricing: per-run or subscription.
 
 ### 3B. Full Enterprise License
 - Internal deployment of the software  
@@ -34,8 +33,25 @@ Pricing: per-run or subscription.
 - Dedicated support, SLA, warranties, and indemnification  
 - Early access to OriginX and OriginB  
 
-Pricing and terms available on request.
+Pricing and terms available here: https://ReheOrigin.github.io/Origin_v5.1/
+
+## 4. Bespoke Service Requests & Custom SOW
+
+For clients with data complexity exceeding 200 samples, unique analytical requirements, hardware integration needs, 
+or multi-phase R&D partnership proposals, a custom Statement of Work (SOW) is required.
+
+To Initiate a Custom Request:
+
+If your project does not fit into the standard tiers above, please contact us directly via email with the subject 
+line: "Bespoke V5.1 Service Inquiry" and include the following details:
+
+Estimated number of samples and data type (e.g., "500 bulk RNA-seq" or "1,200 single-cell scRNA-seq").
+
+Specific research questions or goals that exceed the standard deliverables.
+
+Note: The pricing on the secure checkout page is non-negotiable for the stated Tier 1 and Tier 2 scopes. All other commercial engagements require direct negotiation and a custom SOW.
 
 ## Contact for Both Commercial and Academic Exclusive Inquiries
 Robert-James Rehe  
-rrehe.Origin@gmail.com
+Email: rrehe.Origin@gmail.com
+Pricing: https://ReheOrigin.github.io/Origin_v5.1/
