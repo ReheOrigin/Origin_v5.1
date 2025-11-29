@@ -1,3 +1,15 @@
+## Current Status (November 2025)
+
+Origin v5.1 is a **proof-of-concept** framework demonstrating:
+- Three-tier data architecture (designed and partially implemented)
+- Five-score biological ranking system (functional)
+- Persistent knowledge structures (architecture complete, scaling in progress)
+- Plasticity cassette discovery (algorithm under refinement)
+
+**Currently validated on:** Demo datasets with synthetic data
+**Production infrastructure:** Under development (Q1 2026 target)
+**Commercial service:** Not yet available (contact for early access)
+
 Origin v5.1 – The Living Atlas of Regenerative Biology
 
 Project Title: Origin v5.1: A Living, Self-Improving Discovery Engine with Genomic Plasticity Cassette Discovery for Mammalian Regeneration.
